@@ -1,2 +1,3 @@
-# via
-Definitions and layouts for QMK / VIA keyboards
+# QMK / VIA
+
+Definitions and layouts for QMK / VIA keyboards.
